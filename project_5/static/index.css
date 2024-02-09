@@ -1,0 +1,10 @@
+button {
+    background: red;
+    border: none;
+    border-radius: 5px;
+}
+
+.navbar-nav {
+    display: flex;
+    gap: 25px;
+}
